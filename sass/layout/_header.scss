@@ -1,0 +1,123 @@
+// .page-header {
+//   border-bottom: 1px solid #ececec;
+// }
+
+// .page-header__container {
+//   display: flex;
+//   align-items: center;
+// }
+
+// .navigation {
+//   display: flex;
+//   align-items: center;
+// }
+
+// .menu {
+//   display: flex;
+//   margin-left: auto;
+// }
+
+// .menu__item:not(:last-child) {
+//   margin-right: 50px;
+// }
+
+// .menu__current {
+//   position: relative;
+//   display: block;
+//   font-weight: 500;
+//   font-size: 14px;
+//   line-height: 1.14;
+//   letter-spacing: 0.02em;
+//   color: var(--accent-color);
+//   padding-top: 32px;
+//   padding-bottom: 32px;
+
+//   &::after {
+//     position: absolute;
+//     content: "";
+//     display: block;
+//     width: 100%;
+//     height: 4px;
+//     border-radius: 2px;
+//     background-color: var(--accent-color);
+//     left: 0;
+//     bottom: 0;
+//   }
+// }
+
+// .menu__link {
+//   display: block;
+//   font-weight: 500;
+//   font-size: 14px;
+//   line-height: 1.14;
+//   letter-spacing: 0.02em;
+//   color: #212121;
+//   padding-top: 32px;
+//   padding-bottom: 32px;
+//   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+
+//   &:hover,
+//   &:focus {
+//     color: var(--accent-color);
+//   }
+// }
+
+// .menu__mail-list {
+//   margin-right: 50px;
+// }
+
+// .menu__mail {
+//   display: flex;
+//   align-items: center;
+//   font-weight: 500;
+//   font-size: 14px;
+//   line-height: 1.14;
+//   letter-spacing: 0.02em;
+//   align-items: center;
+//   color: #757575;
+//   margin-left: auto;
+//   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+
+//   &:hover,
+//   &:focus {
+//     color: var(--accent-color);
+//   }
+// }
+
+// .menu__mail-list_icon {
+//   margin-right: 10px;
+//   fill: #757575;
+//   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
+
+//   .menu__mail:hover &,
+//   .menu__mail:focus & {
+//     fill: var(--accent-color);
+//   }
+// }
+
+// .menu__tel-number {
+//   display: flex;
+//   align-items: center;
+//   font-weight: 500;
+//   font-size: 14px;
+//   line-height: 1.14;
+//   letter-spacing: 0.02em;
+//   color: #757575;
+//   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+
+//   &:hover,
+//   &:focus {
+//     color: var(--accent-color);
+//   }
+// }
+
+// .menu__smartphone-list_icon {
+//   margin-right: 10px;
+//   fill: #757575;
+//   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
+
+//   .menu__tel-number:hover &,
+//   .menu__tel-number:focus & {
+//     fill: var(--accent-color);
+//   }
+// }
