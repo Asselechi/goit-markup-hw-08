@@ -1,3 +1,29 @@
+.menu {
+  display: none;
+}
+
+// @media screen and (min-width: 480px) {
+//   .menu {
+//     display: flex;
+//   }
+// }
+.page-header {
+  padding-top: 16px;
+}
+
+.mobile-menu-open-btn {
+  background-color: transparent;
+  border: none;
+  padding: 0;
+  line-height: 0;
+}
+
+.page-header__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
 // .page-header {
 //   border-bottom: 1px solid #ececec;
 // }
